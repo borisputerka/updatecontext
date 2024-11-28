@@ -34,7 +34,7 @@ spec:
         os: darwin
         arch: arm64
     uri: https://github.com/borisputerka/updatecontext/releases/download/v0.1.5/updatecontext_darwin_arm64.tar.gz
-    sha256: "599cf05727194c6c3a1660ce3606a31bcbad464130f45662f2cbc6dfe345a0fe"
+    sha256: "09076d8594647e74ea15355ad943ecadee73a751305cba5878541f533ad1ebe2"
     files:
     - from: "updatecontext"
       to: "."
